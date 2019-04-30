@@ -9,3 +9,6 @@
 - Wrangle Report.pdf
 - twitter_archive_master.csv
 - wrangle_act.ipynb
+
+#### Avaliação do cliente:
+ - Udacity Reviews.pdf
